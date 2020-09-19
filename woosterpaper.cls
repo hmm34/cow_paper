@@ -218,7 +218,7 @@
 	\RequirePackage{float}% to handle figures and tables - JB
 	\RequirePackage[labelfont={bf,footnotesize},font={footnotesize}, justification=raggedright]{caption}% to format captions - JB
 	\RequirePackage{subfigure}% to allow multiple images in a figure - JB
-	\captionsetup[subfloat]{listofindent=4em}% set captions on subfigures - JB
+	%\captionsetup[subfloat]{listofindent=4em}% set captions on subfigures - JB
 	\setcounter{lofdepth}{2}% setting depth of the list of figures - JB
 \numberwithin{equation}{section}% equations are numbered within sections
 \numberwithin{figure}{section}% figures are numbered within sections
